@@ -131,4 +131,3 @@ export default {
     withPluginApi("0.10.1", initIcons);
   },
 };
-
